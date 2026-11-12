@@ -21,7 +21,7 @@ export default buildConfig({
   // serverURL: 'http://localhost:3000',
   serverURL: 'https://backend-rho-sage-84.vercel.app',
   cors: [
-    'https://identity-neon.vercel.app',
+    'https://backend-rho-sage-84.vercel.app',
     'http://localhost:3001',
     'http://192.168.0.109:3001',
     'https://www.armid.am',
