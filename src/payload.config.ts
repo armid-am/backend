@@ -19,7 +19,7 @@ export default buildConfig({
     },
   },
   // serverURL: 'http://localhost:3000',
-  serverURL: 'https://identity-backend.vercel.app',
+  serverURL: 'https://backend-rho-sage-84.vercel.app/',
   cors: [
     'https://identity-neon.vercel.app',
     'http://localhost:3001',
