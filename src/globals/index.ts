@@ -1,0 +1,6 @@
+export { Home } from './home'
+export { Gallery } from './gallery'
+export { Foundation } from './foundation'
+export { Contact } from './contact'
+export { Donation } from './donation'
+export { Footer } from './footer'
